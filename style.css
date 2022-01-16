@@ -1,0 +1,54 @@
+.h1
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 23px;
+    color: black;  
+}
+body
+{
+    background-size: cover;
+}
+.speed
+{
+    float: left;
+}
+.volume
+{
+    float: right;
+}
+.speedimg
+{
+    width: 200px;
+    border-radius: 100px;
+}
+.volumeimg
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#sp
+{
+    font-size: 23px;
+    margin: 15px;
+}
+#vo
+{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas
+{
+border: 5px solid coral;
+border-radius: 20px;
+}
+.playbtn
+{
+    width:150px;
+ font-size: 30px;
+}
